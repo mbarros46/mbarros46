@@ -1,8 +1,20 @@
 
 ### Olá eu sou o Miguel Barros 🖐🏻
 
+📖 Estudante da Faculdade de Informática e Administração Paulista (FIAP).
+
+💻 Cursando Análise e Desenvolvimento de Sistemas.
+
+🎯 Focado no desenvolvimento de soluções tecnológicas inovadoras.
+
+🛠️ Explorando linguagens de programação e ferramentas modernas.
+
+<br/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instragram.com/m_barros46)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/miguelbarrosramos)
+
+<br/>
 
 ![mbarros46 GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarros46&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
