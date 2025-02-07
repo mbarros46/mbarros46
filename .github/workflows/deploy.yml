@@ -1,0 +1,27 @@
+name: Atualizar Repositório
+
+on:
+  push:
+    branches:
+      - main  # Ou outra branch que deseja monitorar
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar o Git
+        run: |
+          git config --global user.email "seu-email@example.com"
+          git config --global user.name "Seu Nome"
+
+      - name: Fazer Push das alterações
+        run: |
+          git add .
+          git commit -m "Atualização automática via GitHub Actions" || echo "Nenhuma mudança para commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
