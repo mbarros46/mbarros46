@@ -9,6 +9,8 @@
 
 🛠️ Explorando linguagens de programação e ferramentas modernas.
 
+Meu portifólio: https://mbarros46.github.io/landing-page-portfolio-tiktok/
+
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_barros46/)
