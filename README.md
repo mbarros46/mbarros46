@@ -9,7 +9,7 @@
 
 🛠️ Explorando linguagens de programação e ferramentas modernas.
 
-Meu portifólio: https://mbarros46.github.io/landing-page-portfolio-tiktok/
+Meu Meu portfólio: https://mbarros46.github.io/landing-page-portfolio-tiktok/
 
 <br/>
 
