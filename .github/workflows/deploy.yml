@@ -24,4 +24,4 @@ jobs:
           git commit -m "Atualização automática via GitHub Actions" || echo "Nenhuma mudança para commit"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
