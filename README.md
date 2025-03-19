@@ -1,13 +1,15 @@
 
 ### Olá eu sou o Miguel Barros 🖐🏻
 
-📖 Estudante da Faculdade de Informática e Administração Paulista (FIAP).
+📖 Estudante da Faculdade de Informática e Administração Paulista (FIAP).  
 
-💻 Cursando Análise e Desenvolvimento de Sistemas.
+💻 Cursando Análise e Desenvolvimento de Sistemas.  
 
-🎯 Focado no desenvolvimento de soluções tecnológicas inovadoras.
+🎯 Focado no desenvolvimento de soluções tecnológicas inovadoras.  
 
-🛠️ Explorando linguagens de programação e ferramentas modernas.
+🛠️ Explorando linguagens de programação e ferramentas modernas.  
+
+🔗 **Portfólio:** [Acesse aqui](https://mbarros46.github.io/portifolio/#inicio)
 
 
 
