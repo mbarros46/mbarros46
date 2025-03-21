@@ -9,7 +9,8 @@
 
 🛠️ Explorando linguagens de programação e ferramentas modernas.  
 
-🔗 **Portfólio:** [Acesse aqui](https://mbarros46.github.io/portifolio/#inicio)
+🔗 <b>Portfólio:</b> <a href="https://mbarros46.github.io/portifolio/#inicio" target="_blank">Acesse aqui</a>
+
 
 
 
