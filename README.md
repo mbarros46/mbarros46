@@ -20,7 +20,7 @@
 
 <br/>
 
-![mbarros46 GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarros46&show_icons=true&theme=dracula&cache_seconds=43200)
+![mbarros46 GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarros46&show_icons=true&theme=dracula&count_private=true&cache_seconds=43200)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=dark&cache_seconds=43200)
 
 ### 🚀 Tecnologias que utilizo atualmente  
