@@ -7,7 +7,7 @@
 
 🎯 Focado no desenvolvimento de soluções tecnológicas inovadoras.  
 
-🛠️ Explorando linguagens de programação e ferramentas modernas.  
+💻  Explorando linguagens de programação e ferramentas modernas.  
 
 🔗 **Portfólio:** <a href="https://mbarros46.github.io/portifolio/#inicio" target="_blank">Acesse aqui</a>
 
