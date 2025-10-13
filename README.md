@@ -23,7 +23,8 @@
 
 ### ⚙️ Tecnologias que utilizo atualmente  
 
-#### 💻 No Itaú
+### 🚀 Tecnologias que utilizo atualmente  
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
     <img src="https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,10 +34,6 @@
     <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
     <img src="https://img.shields.io/badge/DataMesh-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-#### 🧠 Estudando e explorando
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
