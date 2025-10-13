@@ -23,8 +23,6 @@
 
 ### ⚙️ Tecnologias que utilizo atualmente  
 
-### 🚀 Tecnologias que utilizo atualmente  
-
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
     <img src="https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=python&logoColor=white" />
