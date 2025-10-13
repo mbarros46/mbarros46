@@ -11,21 +11,15 @@
 
 🔗 **Portfólio:** <a href="https://mbarros46.github.io/portifolio/#inicio" target="_blank">Acesse aqui</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbarros46&theme=tokyonight)
-
-
-
-
-
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-barros-ramos-47458a326/)
 
 <br/>
 
-![mbarros46 GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarros46&show_icons=true&theme=dracula&count_private=true&cache_seconds=43200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=dark&cache_seconds=43200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbarros46&theme=tokyonight)
+
 
 ### 🚀 Tecnologias que utilizo atualmente  
 <div style="display: flex; gap: 10px;">
