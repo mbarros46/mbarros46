@@ -16,10 +16,9 @@
 
 <br/>
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbarros46&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
-
-![Miguel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbarros46&theme=tokyo-night)
+[![Data Engineer](https://img.shields.io/badge/Data%20Engineer%20in%20progress-0052CC?style=for-the-badge&logo=databricks&logoColor=white)]()
+[![AWS Enthusiast](https://img.shields.io/badge/AWS%20Enthusiast-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Learning Spark](https://img.shields.io/badge/Learning%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)]()
 
 ---
 
