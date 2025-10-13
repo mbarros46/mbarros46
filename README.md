@@ -16,8 +16,10 @@
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbarros46&theme=tokyonight)
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbarros46&show_icons=true&theme=tokyonight&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
+
+![Miguel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbarros46&theme=tokyo-night)
 
 ---
 
