@@ -2,11 +2,11 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade de Informática e Administração Paulista (FIAP)**.
 
-💼 Atualmente atuando como **estagiário de dados no Itaú Unibanco**, onde trabalho com soluções em **AWS**, **Spark** e **GitHub** voltadas à engenharia e governança de dados.  
+💼 Atualmente atuo como **estagiário de dados no Itaú Unibanco**, trabalhando com soluções em **AWS**, **Spark** e **GitHub**, voltadas à **engenharia e governança de dados**.
 
-💻 Tenho foco no **desenvolvimento de soluções tecnológicas inovadoras**, explorando linguagens modernas e boas práticas de engenharia.  
+💻 Tenho foco no **desenvolvimento de soluções tecnológicas inovadoras**, explorando linguagens modernas e boas práticas de engenharia de software.
 
-🚀 Sou apaixonado por **dados, inteligência artificial e desenvolvimento backend**, sempre buscando aprender e evoluir como profissional de tecnologia.  
+🚀 Sou apaixonado por **dados, inteligência artificial e desenvolvimento backend**, sempre buscando aprender e evoluir como profissional de tecnologia.
 
 🔗 **Portfólio:** <a href="https://mbarros46.github.io/portifolio/#inicio" target="_blank">Acesse aqui</a>
 
@@ -20,7 +20,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
 
 ![Miguel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbarros46&theme=tokyo-night)
-
 
 ---
 
