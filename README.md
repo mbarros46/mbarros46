@@ -11,6 +11,11 @@
 
 🔗 **Portfólio:** <a href="https://mbarros46.github.io/portifolio/#inicio" target="_blank">Acesse aqui</a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbarros46&theme=tokyonight)
+
+
+
 
 
 <br/>
