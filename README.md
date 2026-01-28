@@ -1,4 +1,4 @@
-## Hi, I'm Miguel Barros 👋
+## - Miguel Barros Ramos
 
 🎓 Undergraduate student in **Systems Analysis and Development** at **FIAP (Faculdade de Informática e Administração Paulista)**.
 
