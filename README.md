@@ -24,8 +24,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarros46&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbarros46&theme=tokyo-night)
-
 ---
 
 ### ⚙️ Technologies & Tools
