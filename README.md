@@ -1,12 +1,12 @@
-## - Miguel Barros Ramos
+## -- Miguel Barros Ramos
 
-🎓 Undergraduate student in **Systems Analysis and Development** at **FIAP (Faculdade de Informática e Administração Paulista)**.
+🎓 Graduated in **Systems Analysis and Development** from **FIAP (Faculdade de Informática e Administração Paulista)**.
 
-💼 Currently working as a **Data Engineering Intern at Itaú Unibanco**, developing solutions using **AWS**, **Apache Spark**, and **GitHub**, focused on **data engineering and data governance**.
+💼 Currently working as an **AI Developer at Itaú Unibanco**, building solutions using **AWS**, **Apache Spark**, and **GitHub**, focused on **artificial intelligence, data engineering, and data governance**.
 
-💻 Strong interest in building **scalable data solutions**, backend systems, and applying best practices in software and data engineering.
+💻 Strong interest in building **scalable data and AI solutions**, backend systems, and applying best practices in software and data engineering.
 
-🚀 Passionate about **Data Engineering, Artificial Intelligence, and Backend Development**, with a continuous learning mindset.
+🚀 Passionate about **Artificial Intelligence, Data Engineering, and Backend Development**, with a continuous learning mindset.
 
 🔗 **Portfolio:** https://mbarros46.github.io/portifolio/#inicio  
 
