@@ -2,8 +2,7 @@
 
 🎓 Graduated in **Systems Analysis and Development** from **FIAP (Faculdade de Informática e Administração Paulista)**.
 
-💼 Currently working as an **AI Developer at Itaú Unibanco**, building AI-driven solutions with **Microsoft Copilot Studio**, **Java**, and **Python**, focused on automation and intelligent systems.
-
+💼 Currently working as an **Engineering Analyst at Itaú Unibanco**, building API´s and ETL solutions with **AWS Services**, using **.NET**, **Java**, and **Python**.
 
 💻 Strong interest in building **scalable data and AI solutions**, backend systems, and applying best practices in software and data engineering.
 
