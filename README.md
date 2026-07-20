@@ -1,12 +1,12 @@
 ## -- Miguel Barros Ramos
 
-🎓 Graduated in **Systems Analysis and Development** from **FIAP (Faculdade de Informática e Administração Paulista)**.
+🎓 Graduated in Systems Analysis and Development from FIAP (Faculdade de Informática e Administração Paulista).
 
-💼 Currently working as an **Engineering Analyst at Itaú Unibanco**, building API´s and ETL solutions with **AWS Services**, using **.NET**, **Java**, and **Python**.
+💼 Currently working as an Engineering Analyst at Itaú Unibanco, building APIs and ETL solutions with AWS services, using .NET, Java, and Python.
 
-💻 Strong interest in building **scalable data and AI solutions**, backend systems, and applying best practices in software and data engineering.
+💻 Strong interest in building scalable data and AI solutions, backend systems, and applying best practices in software and data engineering.
 
-🚀 Passionate about **Artificial Intelligence, Data Engineering, and Backend Development**, with a continuous learning mindset.
+🚀 Passionate about Artificial Intelligence, Data Engineering, and Backend Development, with a continuous learning mindset.
 
 🔗 **Portfolio:** https://mbarros46.github.io/portifolio/#inicio  
 
