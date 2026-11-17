@@ -10,7 +10,7 @@ Building APIs and ETL/data pipelines on AWS at one of Latin America's largest ba
 
 🌎 Based in São Paulo, Brazil — open to backend and data engineering opportunities
 
-🔗 Portfolio: https://mbarros46.github.io/portifolio/#inicio
+🔗 Portfolio: https://portifolio-w5rv.vercel.app/
 
 ---
 
